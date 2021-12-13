@@ -20,7 +20,7 @@
       id: 'BUILD',
       component: Build,
       componentProps: {
-        siteName: 'Website', // TODO - change
+        siteName: 'SUPER-PRIMO',
       },
       options: {
         route: 'build',
